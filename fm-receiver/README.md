@@ -1,2 +1,1 @@
-# gnuradio
 # fm-receiver
